@@ -1,1 +1,2 @@
 # CutZero
+CutZero, an innovative solution designed to revolutionize video editing workflows. CutZero is engineered to automatically detect and remove silent or blank parts from video files, offering significant time savings and efficiency gains for content creators, video editors, and professionals across various industries. ![image](https://github.com/user-attachments/assets/48db0c4b-6f80-4f18-9142-cc80f275ddc6)
